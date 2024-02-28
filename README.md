@@ -4,20 +4,20 @@ Repositório para organizar os códigos da disciplina Linguagem de Programação
 Ao chegar no laboratório:
 Configurar o usuário local do git
 
---bash
+```bash
 git config --global user.name "A"
 git config --global user.email "B"
-
+```
 Fazer o clone do seu repositório no Github
 
---bash
+```bash
 git clone https://github.com/tiredmoth/estudos-lp3.git
-
+```
 Abrir o repositório no VSCode
 
---bash
+```bash
 code estudos-lp3
-
+```
 Criar um token para realizar os pushs
 
 Settings -> Developer settings -> Personal access tokens -> Tokens (classic)
@@ -25,10 +25,10 @@ Generate new token classic, marcar a opção scope repo
 
 Antes de sair do Laboratório
 
---bash
+```bash
 git config --global --unset user.name
 git config --global --unset user.email
-
+```
 Deletar o token no Github
 Deslogar no Github
 
