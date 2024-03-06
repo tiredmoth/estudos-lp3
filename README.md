@@ -5,8 +5,8 @@ Ao chegar no laboratório:
 Configurar o usuário local do git
 
 ```bash
-git config --global user.name "A"
-git config --global user.email "B"
+git config --global user.name "tiredmoth"
+git config --global user.email "oliveira.camardella@aluno.ifsp.edu.br"
 ```
 Fazer o clone do seu repositório no Github
 
