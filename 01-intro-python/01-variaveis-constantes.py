@@ -20,10 +20,6 @@ PI = 3.14 #isso é uma constante, não variável
 
 # comentários de uma única linha
 
-'''
-comentários de múltiplas linhas
-'''
-
 #docstring (comentário de documentação)
 #serve para documentar classes, objetos, funções, etc...
 
